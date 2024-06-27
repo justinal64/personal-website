@@ -1,5 +1,19 @@
 import Image from "next/image";
 
+/* TODO:
+1. Add a nav bar
+2. Add additional pages for contact info, about me, and projects
+3. Add a footer
+4. Add a blog section
+5. Add a contact form
+6. Add a projects section
+7. Add a section for skills
+8.
+
+Here is a website to use for inspiration https://mattfarley.ca/
+
+*/
+
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
