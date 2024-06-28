@@ -8,7 +8,7 @@ import Image from "next/image";
 5. Add a contact form
 6. Add a projects section
 7. Add a section for skills
-8.
+8. Add a section for testimonials
 
 Here is a website to use for inspiration https://mattfarley.ca/
 
